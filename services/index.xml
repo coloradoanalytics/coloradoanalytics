@@ -11,13 +11,30 @@
     
     
     <item>
-      <title>Occupational &amp; Industrial Noise Control</title>
+      <title>Industrial Noise Control</title>
       <link>http://coloradoanalytics.com/services/industrial/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://coloradoanalytics.com/services/industrial/</guid>
-      <description>The most reliable and effective method of reducing employee noise exposure is through the design and implementation of engineering noise controls. Effective noise controls often include modification, retrofit, or replacement of noise-producing equipment, but may also include the introduction of barriers or enclosures, or administrative controls, such as modification of work schedules.
-The Associates In Acoustics approach to engineering noise controls is to start with the source. Skillful measurement of sound and vibration coupled with thorough observation of the equipment give us an understanding of the noise-producing mechanism at a fundamental level.</description>
+      <description>Noise control in industrial and occupational settings to reduce the noise exposure of employees or mitigate noise impacts on neighboring properties.</description>
+    </item>
+    
+    <item>
+      <title>Environmental Acoustics</title>
+      <link>http://coloradoanalytics.com/services/environmental/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://coloradoanalytics.com/services/environmental/</guid>
+      <description>Measurement, modeling and analysis of noise in the outdoor environment. Development of mitigation to satisfy regulation and noise nuisance critera.</description>
+    </item>
+    
+    <item>
+      <title>HUD Noise Studies</title>
+      <link>http://coloradoanalytics.com/services/hud/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://coloradoanalytics.com/services/hud/</guid>
+      <description>Environmental acoustics studies that conform to HUD&amp;rsquo;s requirements for multi-family housing development.</description>
     </item>
     
   </channel>
