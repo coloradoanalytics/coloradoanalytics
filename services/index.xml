@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on Colorado Analytics</title>
+    <link>http://coloradoanalytics.com/services/</link>
+    <description>Recent content in Services on Colorado Analytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://coloradoanalytics.com/services/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Occupational &amp; Industrial Noise Control</title>
+      <link>http://coloradoanalytics.com/services/industrial/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://coloradoanalytics.com/services/industrial/</guid>
+      <description>The most reliable and effective method of reducing employee noise exposure is through the design and implementation of engineering noise controls. Effective noise controls often include modification, retrofit, or replacement of noise-producing equipment, but may also include the introduction of barriers or enclosures, or administrative controls, such as modification of work schedules.
+The Associates In Acoustics approach to engineering noise controls is to start with the source. Skillful measurement of sound and vibration coupled with thorough observation of the equipment give us an understanding of the noise-producing mechanism at a fundamental level.</description>
+    </item>
+    
+  </channel>
+</rss>
